@@ -1,3 +1,5 @@
+![image](https://github.com/brycehuston/portfolio/assets/50388731/45e2b076-299e-4d6c-82e6-7fca577995ed)
+
 # My Portfolio
 
 ## Introduction
@@ -15,7 +17,6 @@ I'm an experienced developer proficient in HTML, CSS, JavaScript, and related te
 ### Work Experience
 
 #### Self-employed - Web Development
-Feb 2017 - Oct 2018
 
 - Developed and deployed websites using hosting platforms, WordPress, and page builders.
 - Customized websites with WordPress themes, plugins, and functionality to meet client requirements.
@@ -23,7 +24,6 @@ Feb 2017 - Oct 2018
 - Conducted website maintenance, including updates, backups, and security enhancements, to ensure optimal performance and functionality.
 
 #### TAFE - Software Development
-Nov 2018 - Dec 2019
 
 - Developed software applications using Java, C#, PHP, and SQL, employing a wide range of programming languages and technologies.
 - Collaborated with cross-functional teams to gather requirements and translate them into functional software solutions.
@@ -31,7 +31,6 @@ Nov 2018 - Dec 2019
 - Conducted thorough testing, debugging, and optimization to ensure the reliability and performance of software applications.
 
 #### Personal Projects - Vanilla Web Developer
-Jan 2020 - Feb 2022
 
 - Developed and maintained web applications using Vanilla JavaScript, Canvas, HTML, CSS, and related technologies.
 - Created interactive and dynamic web experiences using Vanilla JavaScript, implementing custom functionality and behavior.
@@ -39,7 +38,6 @@ Jan 2020 - Feb 2022
 - Developed responsive user interfaces with HTML and CSS, ensuring optimal display across devices and screen sizes.
 
 #### Freelancer - React Native Developer
-Mar 2022 - Present
 
 - Developed and maintained web applications using React.js and React Native, along with related technologies such as Tailwind CSS and REST APIs.
 - Implemented responsive design techniques for seamless user experiences across devices and browsers.
@@ -53,24 +51,23 @@ Mar 2022 - Present
 Following projects showcase my skills and experience through real-world examples of my work. Each project is briefly described with links to code repositories and live demos. It reflects my ability to solve complex problems, work with different technologies, and manage projects effectively.
 
 #### ThreeJS 3D
-- [GitHub](github-link)
-- [Live Demo](live-demo-link)
+- [GitHub](https://github.com/brycehuston/ai_threejs_project)
+- [Live Demo](https://vanillaart.ca)
 
 ThreeJS-based web application that allows users to load, create, and customize stunning 3D models and geometries with various lights, as well as understand the 3D world.
 
 Tags: #react, #threejs, #tailwindcss
 
 #### Job Search
-- [GitHub](github-link)
-- [Live Demo](live-demo-link)
+- [GitHub](https://github.com/brycehuston/project_react_native_jobs)
 
 Application using APIs that enables users to search for job openings, view estimated salary, roles and qualifications, and apply for jobs based on their location.
 
 Tags: #reactnative, #restapi, #vite
 
 #### NFT Marketplace
-- [GitHub](github-link)
-- [Live Demo](live-demo-link)
+- [GitHub](https://github.com/brycehuston/nft_store)
+- [Live Demo](https://vanillaart.crypto) (View on Brave Brownser or w/ Unstoppable Extention)
 
 Developing an NFT marketplace app and landing page using Expo and React Native, hosted on a fully decentralized peer-to-peer exchange.
 
