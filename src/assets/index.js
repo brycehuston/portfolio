@@ -37,6 +37,9 @@ import tripguide from "./tripguide.png";
 import threejscover from "../assets/threejscover.png";
 import jobsearch from "../assets/jobsearch.png";
 import nftmarket from "../assets/nftmarket.png";
+import bryce from "../assets/bryceweb.png";
+import fitness from "../assets/fitnessweb.png";
+import carart from "../assets/carartweb.png";
 
 import roland from "./people/roland.png";
 import jadine from "./people/jadine.png";
@@ -75,6 +78,9 @@ export {
   threejscover,
   jobsearch,
   nftmarket,
+  bryce,
+  fitness,
+  carart,
   wp,
   vs,
   vc,

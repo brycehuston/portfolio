@@ -24,6 +24,14 @@ const Contact = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
+    
+      // Check if all fields are filled out
+  if (!form.name || !form.email || !form.message) {
+    alert('Please fill out all the required fields.');
+    return;
+  }
+
+  setLoading(true);
     setLoading(true);
 
     emailjs.send(
@@ -112,28 +120,16 @@ const Contact = () => {
             shadow-primary rounded-xl"
           >
             {loading ? 'Sending...' : 'Send'}
-
-          </button>
-
-
-          
-          </form> 
-                 
-        </motion.div>
-        
-
+          </button>          
+          </form>                  
+        </motion.div>       
         <motion.div
           variants={slideIn('right', "tween", 0.2, 1)}
           className="xl:flex-1 xl:h-auto md:h-[550px] h-[350px]"
         >
-          <EarthCanvas />
-          
-
-        </motion.div>
-        
-        
-    </div>
-    
+          <EarthCanvas />     
+        </motion.div>               
+    </div>   
     
   )
 }

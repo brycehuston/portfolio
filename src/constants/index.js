@@ -20,6 +20,9 @@ import {
     vc,
     js,
     threejscover,
+    bryce,
+    fitness,
+    carart,
     jobit,
     tripguide,
     threejs,
@@ -177,19 +180,19 @@ const experiences = [
 const testimonials = [
     {
         testimonial:
-            "Bryce has solved my computer problems on three different occasions and I have been happy with the results each time. He is knowledgeable, articulate and has provided valuable information.Next time I have a computer he will be the one I call, he is my go to guy",
-        name: "Roland Blaise",
-        designation: "CFO",
-        company: "Okanagan Builders",
-        image: roland,
-    },
-    {
-        testimonial:
-            "Bryce was able twice to help me set up my printer with my new laptop and to trouble shoot setting up my new laptop. He is patient, knowledgeable, reliable and responds to help requests promptly!  Ai would highly recommend Bryce!  His price is reasonable and he is ver knowledgeable.",
+            "Bryce was able twice to help me set up my printer with my new laptop and to trouble shoot setting up my new laptop. He is patient, knowledgeable, reliable and responds to help requests promptly!  I would highly recommend Bryce!  His price is reasonable and he is very knowledgeable.",
         name: "Jadine Leclaire",
         designation: "CTO",
         company: "HWH",
         image: jadine,
+    },
+    {
+        testimonial:
+            "Bryce has solved my computer problems on three different occasions and I have been happy with the results each time. He is knowledgeable, articulate and has provided valuable information.Next time I have a computer he will be the one I call, he is my go to guy.",
+        name: "Roland Blaise",
+        designation: "CFO",
+        company: "Okanagan Builders",
+        image: roland,
     },
     {
         testimonial:
@@ -248,7 +251,7 @@ const projects = [
     {
         name: "NFT Marketplace",
         description:
-            "Developing an NFT marketplace app and landing page using Expo and React Native, hosted on a fully decentralized peer-to-peer exchange",
+            "App and landing page using Expo and React Native, hosted on a fully decentralized peer-to-peer exchange. (View in Brave Browser or Chrome with Unstoppable Extention)",
         tags: [
             {
                 name: "blockchain",
@@ -266,6 +269,72 @@ const projects = [
         image: nftmarket,
         source_code_1: "https://github.com/brycehuston/nft_store",
         source_code_2: "https://vanillaart.crypto",
+    },
+    {
+        name: "Car Art",
+        description:
+            "Indulge in vintage automotive art. Elevate your space with timeless classics. Explore our website for captivating masterpieces. Fuel your passion for classic cars.",
+        tags: [
+            {
+                name: "wordpress",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "woocommerce",
+                color: "green-text-gradient",
+            },
+            {
+                name: "store",
+                color: "pink-text-gradient",
+            },
+        ],
+        image: carart,
+        source_code_1: "https://github.com/brycehuston/",
+        source_code_2: "https://pacificcarart.com/",
+    },
+    {
+        name: "Personal Website",
+        description:
+            "Unveil my story. Showcase my passions, achievements, and aspirations. Experience my personal website that reflects my unique journey.",
+        tags: [
+            {
+                name: "wordpress",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "promote",
+                color: "green-text-gradient",
+            },
+            {
+                name: "business",
+                color: "pink-text-gradient",
+            },
+        ],
+        image: bryce,
+        source_code_1: "https://github.com/brycehuston/portfolio",
+        source_code_2: "https://brycehuston.com/",
+    },
+    {
+        name: "Massage & Fitness",
+        description:
+            "Get fit on the go! Our mobile fitness and massage website brings wellness to your fingertips. Stay active and relaxed wherever you are.",
+        tags: [
+            {
+                name: "wordpress",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "elementor",
+                color: "pink-text-gradient",
+            },
+            {
+                name: "services",
+                color: "green-text-gradient",
+            },
+        ],
+        image: fitness,
+        source_code_1: "https://github.com/brycehuston/",
+        source_code_2: "https://mobilefitnessandmassage.com/",
     },
 ];
 
