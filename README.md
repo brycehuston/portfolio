@@ -1,4 +1,4 @@
-![image](https://github.com/brycehuston/portfolio/assets/50388731/45e2b076-299e-4d6c-82e6-7fca577995ed)
+![image](https://github.com/brycehuston/portfolio/assets/50388731/946cb59c-a5a4-4c7b-aa77-64a93bd9eca4)
 
 # My Portfolio
 
